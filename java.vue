@@ -1,8 +1,8 @@
 <template>
-    <slot></slot>
+    <h1>Java Component</h1>
     </template>
     <script>
     export default {
-        name: 'Child',
+        name: "java"
     }
 </script>
